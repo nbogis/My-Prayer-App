@@ -1,0 +1,32 @@
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\App.xbf
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\MainPage.xbf
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\Prayers Suwar.xr.xml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\Prayers Suwar.exe
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\Prayers Suwar.pdb
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\resources.pri
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\AppxManifest.xml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\bin\Debug\Prayers Suwar.build.appxrecipe
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\App.g.i.cs
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\App.g.cs
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\MainPage.g.i.cs
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\MainPage.g.cs
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\App.xaml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\App.xbf
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\MainPage.xaml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\MainPage.xbf
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\Prayers Suwar.exe
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\Prayers Suwar.pdb
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\priconfig.xml
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\layout.resfiles
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\resources.resfiles
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\pri.resfiles
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\qualifiers.txt
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jonathan\Desktop\C# prctices\Prayers Suwar\Prayers Suwar\obj\Debug\ProjectArchitectures.txt
